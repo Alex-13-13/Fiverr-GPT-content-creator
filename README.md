@@ -2,7 +2,7 @@
 
 To install the program:
 
-git clone https://github.com/salomonsa/Fiverr-GPT-content-creator.git
+git clone https://github.com/Alex-13-13/Fiverr-GPT-content-creator.git
 
 IMPORTANT STUFF, READ BEFORE USING THE PROGRAM:
 
